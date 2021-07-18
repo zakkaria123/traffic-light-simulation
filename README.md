@@ -1,5 +1,7 @@
 # traffic-light-simulation
 #this is a simple project in python that illustrates the state space machine with python ie traffic light system simulation in python
+
+
 from turtle import*
 wn=Screen()
 wn.bgcolor('black')
